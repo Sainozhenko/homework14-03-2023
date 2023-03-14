@@ -26,3 +26,6 @@ public class Main {
     }
 }
 
+/*
+[Rectangel 150.0, Circle 314.1592653589793, Square 225.0]
+*/
